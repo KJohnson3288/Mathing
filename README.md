@@ -24,12 +24,10 @@ The program will display the result of the chosen operation on the provided numb
 startCalc Method - This method initiates the calculator by prompting the user to start a new calculation or quit.
 
 
-## Operating Method - Obtains two numbers and an operator from the user to perform calculations.
-The user can choose between addition, subtraction, multiplication, and division.
+Operating Method - Obtains two numbers and an operator from the user to perform calculations. The user can choose between addition, subtraction, multiplication, and division.
 
 
-## Arithmetic Operations - The actual arithmetic operations are performed in a separate class named Calculating.
-The chosen operation is determined by the user input, and the corresponding method is called.
+Arithmetic Operations - The actual arithmetic operations are performed in a separate class named Calculating. The chosen operation is determined by the user input, and the corresponding method is called.
 
 
 ## Instructions:
